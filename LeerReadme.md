@@ -1,12 +1,3 @@
-Buenas, he tenido bastantes problemas con el proyecto y he querido hacerlo yo solo todo lo posible hasta el final.
-
-En primer lugar, he de decir que he querido hacer el proyecto mediante Laravel basándome en un trabajo anterior de clase que hicimos con Javi relacionado con una biblioteca.
-Resulta que al renombrar archivos y adaptarlo a este proyecto me da errores y he intentado de todas las maneras posibles pero no he sido capaz. También he intentado desplegar la app
-mediante webhost pero no lo he conseguido aún.
-
-Voy a poner como pueda las instrucciones para que se pueda desplegar instalando laravel y poder ver al menos lo que tengo hecho hasta ahora. Perdonad por no tenerlo todos los requisitos
-de este tercer hito a tiempo.
-
 ******Instrucciones*****
 
 1. Creamos el proyecto en la terminal con composer create-project --prefer-dist laravel/laravel
